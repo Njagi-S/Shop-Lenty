@@ -1,0 +1,15 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: blue;
+    margin: 20px;
+    line-height: 100px;
+    text-shadow: 12px 10px 12px #000;
+    font-size: 50px;
+    background-color: darkslategrey;
+    border-radius: 30px;
+}
+h1:hover{
+    background-color: crimson;
+
+}
